@@ -1,12 +1,12 @@
+import HomePage  from './pages/HomePage'
 import './App.css'
+
 
 function App() {
 
   return (
     <>
-      <div> 
-        <h1>Ahmad omar</h1>
-      </div>
+     <HomePage />
        
     </>
   )
